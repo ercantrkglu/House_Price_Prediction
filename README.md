@@ -10,4 +10,4 @@ After that, I follow the general roadmap in data analysis processes:
 - We will use visualizations for the better understanding the variables.
 - Then, We will look for relationship between variables via statistical calculations. We will make changes to the data if necessary.
 - We will examine outliers,missing and contradictory observations and make the necessary preliminary processes before modeling.
-- Finally, I will fit my model and end my project.
+- Finally, we will fit my model and end my project.
